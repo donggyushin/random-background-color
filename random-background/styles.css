@@ -1,0 +1,15 @@
+.container {
+  background-color: 100%;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item {
+  width: 23%;
+  height: 70px;
+  background-color: blue;
+  border: 1px solid black;
+}
